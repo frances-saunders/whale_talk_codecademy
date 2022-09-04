@@ -1,4 +1,6 @@
-let input = "Whale talk sounds extremely made up";
+//This script fulfills the project reqs for "Whale Talk" in Codecademy
+
+let input = "Whale talk sounds extremely made up"; //string can be changed
 
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 
